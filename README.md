@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=3EA3F2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aaditya+Sharma;Python+|+Django+|+PHP" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=3EA3F2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aaditya+Sharma;Working+on;Python+|+Django+|+PHP" />
 </h1>
 
 <!-- Animated Divider -->
