@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aaditya Sharma</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Python • Django • Flutter • PHP</h3>
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=3EA3F2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aaditya+Sharma;Aspiring+Full-Stack+Developer;Python+|+Django+|+Flutter+|+PHP" />
+</h1>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="animated line" />
+</p>
+
+<!-- Animated Coding GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aadityasharma101/Aadityasharma101/main/assets/coding.gif" width="250" />
+</p>
+
 
 ---
 
