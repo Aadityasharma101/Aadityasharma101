@@ -17,13 +17,11 @@
 ### **Languages**
 🔥 Python  
 🔥 PHP  
-🔥 JavaScript  
-🔥 Dart  
+🔥 JavaScript   
 🔥 HTML & CSS  
 
 ### **Frameworks & Tools**
-🚀 Django  
-🚀 Flutter  
+🚀 Django   
 🚀 Bootstrap  
 🚀 MySQL  
 🚀 XAMPP  
